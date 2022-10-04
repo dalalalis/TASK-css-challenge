@@ -1,0 +1,15 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+    width: 200px;
+  }
+.div2 {background-color:rgb(42, 11, 57);}
+h2 {color:aliceblue;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-style:italic; font:bold; font-family:Regular 400;}
+h5 {text-align: center;
+    color:antiquewhite;}
